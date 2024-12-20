@@ -3,10 +3,6 @@
 !/build-aux
 !/build_msvc
 
-!/out*
-out/
-.vscode
-
 *.pyc
 
 # Only ignore unexpected patches
